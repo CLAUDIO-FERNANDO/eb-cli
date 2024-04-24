@@ -16,3 +16,5 @@ rm .env 2> /dev/null
 rm bia-versao.zip
 zip -r bia-versao.zip docker-compose.yml
 git checkout docker-compose.yml
+
+# brach dev 
